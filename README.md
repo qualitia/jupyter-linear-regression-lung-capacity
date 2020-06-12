@@ -1,4 +1,3 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/qualitia/jupyter-linear-regression-lung-capacity/master)
 [![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/qualitia/projects/linear-regression-lung-cap)
 # Linear Regression - Lung Capacity
 
